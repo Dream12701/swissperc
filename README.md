@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Swisstronik TestNET
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Deploy a PERC-20 token
 
-Try running some of the following tasks:
+Mint and Transfer a PERC-20 token
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+
+https://www.swisstronik.com/testnet2/dashboard
