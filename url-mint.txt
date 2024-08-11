@@ -1,0 +1,2 @@
+Transaction URL of Mint: https://explorer-evm.testnet.swisstronik.com/tx/0x70e505052ddf385166b4e2d08dd8b786a7440b7cf1aa134fbfcb0256bf90943d
+https://explorer-evm.testnet.swisstronik.com/tx/0x70e505052ddf385166b4e2d08dd8b786a7440b7cf1aa134fbfcb0256bf90943d
