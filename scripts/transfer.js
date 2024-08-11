@@ -19,7 +19,7 @@ async function main() {
   const contract = contractFactory.attach(contractAddress);
 
   const functionName = "transfer";
-  const functionArgs = ["0x73Fc5489868EB8c25362DEA8BF799ef2d223c2f2", "1"];
+  const functionArgs = ["0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1", "1"];
   const transaction = await sendShieldedTransaction(
     signer,
     contractAddress,
